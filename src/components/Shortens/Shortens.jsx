@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { useForm } from 'react-hook-form';
 import { useDispatch } from 'react-redux';
-import { createShortLink } from 'Redux/link/linkSlice';
+import { createShortLink } from 'redux/link/linkSlice';
 import { Table } from './Table';
 
 const Shortens = () => {

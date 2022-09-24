@@ -1,8 +1,8 @@
 import { useForm } from 'react-hook-form';
 import { useDispatch } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
-import { login } from 'Redux/user/userSlice';
-import logo from '../../../Images/logo.svg';
+import { login } from 'redux/user/userSlice';
+import logo from '../../../images/logo.svg';
 
 const LoginForm = () => {
 

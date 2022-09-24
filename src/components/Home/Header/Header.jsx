@@ -1,7 +1,7 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import logo from '../../../Images/logo.svg';
+import logo from '../../../images/logo.svg';
 
 const Header = () => {
 

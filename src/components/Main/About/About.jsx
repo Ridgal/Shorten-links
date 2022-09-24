@@ -1,4 +1,4 @@
-import logo from '../../../Images/react.svg';
+import logo from '../../../images/react.svg';
 
 const About = () => {
   return (

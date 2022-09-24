@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { API_URL } from '../../Utils/constant';
-import axios from "../../Services/apiService";
+import { API_URL } from '../../utils/constant';
+import axios from "../../services/apiService";
 
 export const createShortLink = createAsyncThunk(
   'links/createShortLink',

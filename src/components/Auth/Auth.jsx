@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import { RegistrationForm } from './Forms/RegistrationForm';
 import { LoginForm } from "./Forms/LoginForm";
-import Logo from '../../Images/wallpaper.jpg';
+import Logo from '../../images/wallpaper.jpg';
 
 const Auth = () => {
   return (

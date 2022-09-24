@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from "framer-motion";
 import { useSelector } from "react-redux";
-import { selectLinks } from "Redux/link/linkSlice";
+import { selectLinks } from "redux/link/linkSlice";
 
 const Table = () => {
 
